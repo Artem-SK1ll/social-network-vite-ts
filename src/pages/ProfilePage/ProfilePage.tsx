@@ -247,9 +247,9 @@ export const ProfilePage = () => {
           />
         </svg>
         <div className="user__block">
-          <img src="./img/users/denis-frolov.jpeg" alt="Denis Frolov" />
+          <img src="./public/img/profile/profile-photo" alt="Denis Frolov" />
           <div className="user__description">
-            <h1 className="user__name">Денис Фролов</h1>
+            <h1 className="user__name">PARADOX</h1>
             <div className="user__info">
               <div className="parameter">
                 <span className="key">Друзья</span>
